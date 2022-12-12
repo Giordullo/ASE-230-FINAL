@@ -1,0 +1,24 @@
+#spacing_controls {
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+#space {
+	overflow: hidden;
+	margin-top: 40px;
+}
+.jumbotron {
+	width: auto;
+	margin: 0 auto;
+}			
+.row {
+	margin: 0 auto;
+}	
+
+body {
+	background-color: DimGray;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family:courier;
+}
